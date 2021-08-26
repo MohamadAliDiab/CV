@@ -1,0 +1,52 @@
+.title1{
+    background-color:rgb(116, 5, 5);
+    height: 50px;
+}
+.avatar{
+    float: left;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+  }
+.title2{
+    font-style: italic;
+    background-color: rgb(116, 5, 5);
+    height: 30px;
+    width: 200px;
+    text-align:left;
+}
+.table{
+    border:"1" width = "100%"
+}
+.body{
+    background-image: url('space.png');
+    color:white
+}
+.title3{
+    font-style: italic;
+    background-color: rgb(116, 5, 5);
+
+    height: 30px;
+    width: 120px;
+    text-align:left;
+}
+.title9{
+    font-style: italic;
+    background-color: rgb(116, 5, 5);
+    height: 30px;
+    width: 220px;
+}
+.title4{
+    font-style: italic;
+    background-color: rgb(116, 5, 5);
+    height: 30px;
+    width: 120px;
+    text-align:left;
+}
+.title5{
+    font-style: italic;
+    background-color: rgb(116, 5, 5);
+    height: 30px;
+    width: 70px;
+    text-align:left;
+}
